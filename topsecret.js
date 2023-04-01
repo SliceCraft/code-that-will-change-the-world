@@ -56,7 +56,7 @@ for(let i = 0; i < helloworld.length; i++){
             process.stdout.write(helloworld[9]);
             break;
         case 10:
-            process.stdout.write(helloworld[10);
+            process.stdout.write(helloworld[10]);
             break;
     }
 }
